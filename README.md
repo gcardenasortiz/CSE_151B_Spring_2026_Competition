@@ -2,7 +2,7 @@
 
 ## GPU Type and Approximate Generation/Inference Time
 
-Datahub was used so GPUs in use changed depending on what was available at the time. I switched between using RTX 6000 Blackwell with 24GB, or using a H100 with 20GB. As such the approximate generation/inference time depends on the 
+Datahub was used so GPUs in use changed depending on what was available at the time. I switched between using RTX 6000 Blackwell with 24GB, or using a H100 with 20GB. As such the approximate generation/inference time depends on the GPU used. This time ranges from 12-20 hours for one full run of the dataset.
 
 
 ## Model Weights
